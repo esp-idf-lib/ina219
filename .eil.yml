@@ -1,7 +1,7 @@
 ---
 name: ina219
 description: Driver for INA219/INA220 bidirectional current/power monitor
-version: 1.0.7
+version: 1.0.8
 groups:
   - current
 code_owners: UncleRus
