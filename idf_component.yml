@@ -1,7 +1,7 @@
 ---
 version: 1.0.8
 description: Driver for INA219/INA220 bidirectional current/power monitor
-license: BSD-3
+license: BSD-3-Clause
 dependencies:
   esp-idf-lib/i2cdev:
     version: "*"
